@@ -1,4 +1,4 @@
-package com.foodfinder.user_security_springboot;
+package com.foodfinder;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,13 +1,13 @@
-package com.foodfinder.user_security_springboot;
+package com.foodfinder;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserSecuritySpringbootApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserSecuritySpringbootApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }
